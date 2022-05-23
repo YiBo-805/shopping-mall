@@ -72,7 +72,7 @@ I. 类别按钮、[综合|新品|精选]模块
 
 I. 商品显示、全选按钮功能模块
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/79205996/169811982-45576e12-3aba-4ce2-aa85-cdf233b05133.png)
 
 
 #### (5) 用户模块
