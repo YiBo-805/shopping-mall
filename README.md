@@ -29,7 +29,8 @@ https://github.com/YiBo-805/shopping-mall.git
 
 #### 2、项目组成：
 
-![image](https://user-images.githubusercontent.com/79205996/169808641-cc82a8ce-f69c-4edb-a67e-95f914b46786.png)
+![image](https://user-images.githubusercontent.com/79205996/169811262-f3d23bd4-7499-4f92-93e6-82a6cda84bf9.png)
+
 
 #### 3、项目详细界面展示：
 
@@ -71,6 +72,7 @@ I. 类别按钮、[综合|新品|精选]模块
 
 I. 商品显示、全选按钮功能模块
 
+![Uploading image.png…]()
 
 
 #### (5) 用户模块
