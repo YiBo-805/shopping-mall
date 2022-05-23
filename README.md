@@ -71,13 +71,14 @@ I. 类别按钮、[综合|新品|精选]模块
 
 I. 商品显示、全选按钮功能模块
 
-![Image text](https://gitee.com/spiced-fruit-milk-tea/supermall_02/raw/master/img-folder/cart.jpg)
+
 
 #### (5) 用户模块
 
 I.显示用户信息
 
-![Image text](https://gitee.com/spiced-fruit-milk-tea/supermall_02/raw/master/img-folder/profile.jpg)
+![profile](https://user-images.githubusercontent.com/79205996/169810321-df7529fb-91e7-401e-9168-30f283f154d2.jpg)
+
 
 
 
